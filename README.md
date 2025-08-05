@@ -13,4 +13,4 @@ This project uses machine learning to detect emotions (happy, sad, angry, neutra
 3. Run `app.py`
 4. Upload `.wav` audio and get real-time emotion prediction!
 
-> Built with ❤️ by Muhammad Waleed
+> Built with  by Muhammad Waleed
